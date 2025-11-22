@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/AnarB16/skillbox-test/issues"
   },
-  "homepage": "https://github.com/AnarB16/skillbox-test#readme"
+  "homepage": "https://github.com/AnarB16/skillbox-test#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
 }
